@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void test()
+{
+ add_test_fun
+}
 void func()
 {
  root_dev_change
