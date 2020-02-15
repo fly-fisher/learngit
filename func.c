@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void func()
+{
+ root_dev_change
+}
+
 void func_master()
 {
   printf("func_master\n");
