@@ -2,6 +2,8 @@
 
 using namespace std;
 
+nihaoa
+
 void func_master()
 {
   printf("func_master\n");
