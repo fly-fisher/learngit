@@ -2,6 +2,7 @@
 
 using namespace std;
 tme
+ff
 nihaoa
 
 void func_master()
