@@ -1,6 +1,12 @@
 #include <stdint.h>
 
 using namespace std;
+
+void wrt1()
+{
+
+}
+
 void wrt()
 {
 
