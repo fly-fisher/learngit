@@ -1,6 +1,10 @@
 #include <stdint.h>
 
 using namespace std;
+void wrt()
+{
+
+}
 tme
 ff
 nihaoa
