@@ -15,6 +15,16 @@ tme
 ff
 nihaoa
 
+void test()
+{
+ add_root_fun
+ add_test_fun
+}
+void func()
+{
+ root_dev_change
+}
+
 void func_master()
 {
   printf("func_master\n");
