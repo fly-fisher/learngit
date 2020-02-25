@@ -1,6 +1,19 @@
 #include <stdint.h>
 
 using namespace std;
+nihaoa
+void wrt1()
+{
+
+}
+
+void wrt()
+{
+
+}
+tme
+ff
+nihaoa
 
 nicainicai
 
