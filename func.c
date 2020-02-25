@@ -2,6 +2,7 @@
 
 using namespace std;
 nihaoa
+1111111111111
 void wrt1()
 {
 
