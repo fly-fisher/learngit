@@ -1,5 +1,7 @@
 #include <stdint.h>
 
+wrttest
+
 using namespace std;
 hhhhhhhhhhhhhhhhhhhh
 void test()
